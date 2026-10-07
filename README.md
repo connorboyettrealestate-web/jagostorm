@@ -4,6 +4,10 @@ Operating repo for the **Jagostorm** music/artist brand — vocal-chain presets,
 production notes, and release plans. This is the durable build layer; the daily
 work happens in BandLab and your DAW.
 
+## AI
+
+Claude, Grok, ChatGPT, and Codex: read [AGENTS.md](AGENTS.md), then [ACTIONS.md](ACTIONS.md). J1 waits until Connor names the next single.
+
 ## What's here
 
 | Folder | What lives there |
