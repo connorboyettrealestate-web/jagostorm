@@ -8,3 +8,5 @@ Claude, Grok, ChatGPT, and Codex start here.
 4. After he names it, copy `releases/README.md` into `releases/YYYY-MM-DD-single-slug.md` and fill only the facts he gives.
 
 Audio masters, stems, and logins stay out of git.
+
+When a result Connor can see has changed, update Second-Brain `02_Projects/AI_Collab/kpis.yml` using `KPI-SOP.md`, then run `python3 scripts/kpi_board.py` in CBOPS-markets.
